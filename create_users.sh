@@ -1,4 +1,3 @@
-# intro_cybersecurity
 #!/bin/bash
 
 # This script creates multiple users based on an array of usernames.
@@ -12,8 +11,4 @@ do
     sudo useradd -m "$username"
 done
 
-<<<<<<< HEAD
 echo "Successfully created users"
-=======
-echo "Successfully created users"
->>>>>>> 0a1ff19 (work for class)

@@ -3,7 +3,7 @@
 # This script creates multiple users based on an array of usernames.
 #
 # Username array
-usernames=("atanaka" "alee" "rpatel")
+usernames=("Loki" "Kullervo" "Temple")
 
 # create the users by looping through the array
 for username in "${usernames[@]}"
